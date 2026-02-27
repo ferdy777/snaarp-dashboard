@@ -2,8 +2,8 @@
 
 > Frontend Developer Assessment — Interactive dashboard built with React, TypeScript, Tailwind CSS, and drag-and-drop functionality.
 
-**Live Demo:** https://your-deployment-url.vercel.app
-**Repository:** https://github.com/your-username/snaarp-dashboard
+**Live Demo:** https://snaarp-dashboard-eight.vercel.app/
+**Repository:** https://github.com/ferdy777/snaarp-dashboard
 
 ---
 
