@@ -1,0 +1,26 @@
+*:focus {
+  @apply outline-[4px] outline-offset-0 outline-accent-dark-blue-base/20;
+}
+
+body {
+  @apply font-normal text-grey-content-2;
+}
+
+button {
+  @apply cursor-pointer;
+}
+
+/* Remove chrome autofill color from inputs */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  transition: background-color 5000000s ease-in-out 0s;
+}
+
+/* For Chrome, Edge, and Safari */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

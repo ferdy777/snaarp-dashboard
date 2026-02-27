@@ -1,0 +1,88 @@
+@theme {
+  /* Primary */
+  --color-primary-base: #2f80ed;
+  --color-primary-hover: #7db0f4;
+  --color-primary-pressed: #0e4ea3;
+  --color-primary-border: #e5effd;
+  --color-primary-bg: #f6fafe;
+
+  /* Accent dark blue */
+  --color-accent-dark-blue-base: #022150;
+  --color-accent-dark-blue-hover: #3e557866;
+  --color-accent-dark-blue-pressed: #07162d;
+  --color-accent-dark-blue-border: #aeb7c5;
+  --color-accent-dark-blue-bg: #aeb7c533;
+
+  /* Accent purple */
+  --color-accent-purple-base: #143868;
+  --color-accent-purple-hover: #1438689e;
+  --color-accent-purple-pressed: #06172e;
+  --color-accent-purple-border: #b6b8ba;
+  --color-accent-purple-bg: #f6f7f9;
+
+  /* Accent lilac */
+  --color-accent-lilac-base: #dab1f8;
+  --color-accent-lilac-hover: #e9d0fb;
+  --color-accent-lilac-pressed: #b79fc9;
+  --color-accent-lilac-border: #ebd6fa;
+  --color-accent-lilac-bg: #fbf6ff;
+
+  /* Grey */
+  --color-grey-content-1: #1a1c33;
+  --color-grey-content-2: #202939;
+  --color-grey-content-3: #3f3f47;
+  --color-grey-content-4: #a3a3ae;
+  --color-grey-border: #e6e7e9;
+  --color-grey-bg-secondary: #f8fafc;
+  --color-grey-bg-secondary-low: #fcfcfd;
+  --color-grey-bg-primary: #ffffff;
+
+  /* Blue */
+  --color-blue-base: #2fdfed;
+  --color-blue-hover: #9ff1f7;
+  --color-blue-pressed: #89cbcf;
+  --color-blue-border: #daeff0;
+  --color-blue-bg: #f7fbfc;
+
+  /* Yellow tan */
+  --color-yellow-tan-base: #ffd34e;
+  --color-yellow-tan-hover: #ffeaab;
+  --color-yellow-tan-pressed: #d4af2c;
+  --color-yellow-tan-border: #faefcc;
+  --color-yellow-tan-bg: #fffcf3;
+
+  /* Coral */
+  --color-coral-base: #ed2f80;
+  --color-coral-hover: #f09fc2;
+  --color-coral-pressed: #830b3e;
+  --color-coral-border: #f6d6e4;
+  --color-coral-bg: #feeff5;
+
+  /* Error */
+  --color-error-base: #ed3d2f;
+  --color-error-hover: #f83526a8;
+  --color-error-pressed: #410a06;
+  --color-error-border: #fdedec;
+  --color-error-bg: #fff8f7;
+
+  /* Pending */
+  --color-pending-base: #f98600;
+  --color-pending-hover: #eeaf5b;
+  --color-pending-pressed: #a3640e;
+  --color-pending-border: #f9dcb6;
+  --color-pending-bg: #fefaf5;
+
+  /* Accent success */
+  --color-accent-success-base: #4cc734;
+  --color-accent-success-hover: #aeffb5;
+  --color-accent-success-pressed: #06410a;
+  --color-accent-success-border: #b2ffb8;
+  --color-accent-success-bg: #f5fef5;
+
+  /* Lavendar success */
+  --color-lavendar-base: #4cc734;
+  --color-lavendar-hover: #aeffb5;
+  --color-lavendar-pressed: #06410a;
+  --color-lavendar-border: #f7f6ff;
+  --color-lavendar-bg: #f5fef5;
+}
